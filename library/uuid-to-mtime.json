@@ -1,0 +1,652 @@
+{
+  "f8e6b000-5643-4b86-9080-aa680ce1f599": {
+    "asset": 1541500988000,
+    "meta": 1541500988000,
+    "relativePath": "image"
+  },
+  "71561142-4c83-4933-afca-cb7a17f67053": {
+    "asset": 1541500988000,
+    "meta": 1541747848177,
+    "relativePath": "image/default_btn_disabled.png"
+  },
+  "e851e89b-faa2-4484-bea6-5c01dd9f06e2": {
+    "asset": 1541500988000,
+    "meta": 1541747848180,
+    "relativePath": "image/default_btn_normal.png"
+  },
+  "d81ec8ad-247c-4e62-aa3c-d35c4193c7af": {
+    "asset": 1541500988000,
+    "meta": 1541747848216,
+    "relativePath": "image/default_panel.png"
+  },
+  "b43ff3c2-02bb-4874-81f7-f2dea6970f18": {
+    "asset": 1541500988000,
+    "meta": 1541747848209,
+    "relativePath": "image/default_btn_pressed.png"
+  },
+  "99170b0b-d210-46f1-b213-7d9e3f23098a": {
+    "asset": 1541500988000,
+    "meta": 1541747848228,
+    "relativePath": "image/default_progressbar_bg.png"
+  },
+  "cfef78f1-c8df-49b7-8ed0-4c953ace2621": {
+    "asset": 1541500988000,
+    "meta": 1541747848234,
+    "relativePath": "image/default_progressbar.png"
+  },
+  "567dcd80-8bf4-4535-8a5a-313f1caf078a": {
+    "asset": 1541500988000,
+    "meta": 1541747848245,
+    "relativePath": "image/default_radio_button_off.png"
+  },
+  "9d60001f-b5f4-4726-a629-2659e3ded0b8": {
+    "asset": 1541500988000,
+    "meta": 1541747848250,
+    "relativePath": "image/default_radio_button_on.png"
+  },
+  "617323dd-11f4-4dd3-8eec-0caf6b3b45b9": {
+    "asset": 1541500988000,
+    "meta": 1541747848276,
+    "relativePath": "image/default_scrollbar_vertical_bg.png"
+  },
+  "4bab67cb-18e6-4099-b840-355f0473f890": {
+    "asset": 1541500988000,
+    "meta": 1541747848267,
+    "relativePath": "image/default_scrollbar_bg.png"
+  },
+  "0291c134-b3da-4098-b7b5-e397edbe947f": {
+    "asset": 1541500988000,
+    "meta": 1541747848301,
+    "relativePath": "image/default_scrollbar.png"
+  },
+  "d6d3ca85-4681-47c1-b5dd-d036a9d39ea2": {
+    "asset": 1541500988000,
+    "meta": 1541747848288,
+    "relativePath": "image/default_scrollbar_vertical.png"
+  },
+  "0275e94c-56a7-410f-bd1a-fc7483f7d14a": {
+    "asset": 1541500988000,
+    "meta": 1541747848304,
+    "relativePath": "image/default_sprite_splash.png"
+  },
+  "6e056173-d285-473c-b206-40a7fff5386e": {
+    "asset": 1541500988000,
+    "meta": 1541747848341,
+    "relativePath": "image/default_sprite.png"
+  },
+  "73a0903d-d80e-4e3c-aa67-f999543c08f5": {
+    "asset": 1541500988000,
+    "meta": 1541747848326,
+    "relativePath": "image/default_toggle_checkmark.png"
+  },
+  "c25b9d50-c8fc-4d27-beeb-6e7c1f2e5c0f": {
+    "asset": 1541500988000,
+    "meta": 1541747848349,
+    "relativePath": "image/default_toggle_disabled.png"
+  },
+  "d29077ba-1627-4a72-9579-7b56a235340c": {
+    "asset": 1541500988000,
+    "meta": 1541747848377,
+    "relativePath": "image/default_toggle_normal.png"
+  },
+  "fc09f9bd-2cce-4605-b630-8145ef809ed6": {
+    "asset": 1541500988000,
+    "meta": 1541500988000,
+    "relativePath": "misc"
+  },
+  "2be36297-9abb-4fee-8049-9ed5e271da8a": {
+    "asset": 1541500988000,
+    "meta": 1541747848411,
+    "relativePath": "misc/default_video.mp4"
+  },
+  "f6e6dd15-71d1-4ffe-ace7-24fd39942c05": {
+    "asset": 1541500988000,
+    "meta": 1541500988000,
+    "relativePath": "obsolete"
+  },
+  "b181c1e4-0a72-4a91-bfb0-ae6f36ca60bd": {
+    "asset": 1541500988000,
+    "meta": 1541747848379,
+    "relativePath": "image/default_toggle_pressed.png"
+  },
+  "b8223619-7e38-47c4-841f-9160c232495a": {
+    "asset": 1541500988000,
+    "meta": 1541747848543,
+    "relativePath": "obsolete/atom.plist"
+  },
+  "f743d2b6-b7ea-4c14-a55b-547ed4d0a045": {
+    "asset": 1541500988000,
+    "meta": 1541500988000,
+    "relativePath": "particle"
+  },
+  "b2687ac4-099e-403c-a192-ff477686f4f5": {
+    "asset": 1541500988000,
+    "meta": 1541747848544,
+    "relativePath": "particle/atom.plist"
+  },
+  "ae6c6c98-11e4-452f-8758-75f5c6a56e83": {
+    "asset": 1541500988000,
+    "meta": 1541500988000,
+    "relativePath": "prefab"
+  },
+  "2c937608-2562-40ea-b264-7395df6f0cea": {
+    "asset": 1541500988000,
+    "meta": 1541747848436,
+    "relativePath": "prefab/canvas.prefab"
+  },
+  "972b9a4d-47ee-4c74-b5c3-61d8a69bc29f": {
+    "asset": 1541500988000,
+    "meta": 1541747848432,
+    "relativePath": "prefab/button.prefab"
+  },
+  "61aeb05b-3b32-452b-8eed-2b76deeed554": {
+    "asset": 1541500988000,
+    "meta": 1541747848445,
+    "relativePath": "prefab/editbox.prefab"
+  },
+  "27756ebb-3d33-44b0-9b96-e858fadd4dd4": {
+    "asset": 1541500988000,
+    "meta": 1541747848444,
+    "relativePath": "prefab/label.prefab"
+  },
+  "785a442c-3ceb-45be-a46e-7317f625f3b9": {
+    "asset": 1541500988000,
+    "meta": 1541747848450,
+    "relativePath": "prefab/layout.prefab"
+  },
+  "ca8401fe-ad6e-41a8-bd46-8e3e4e9945be": {
+    "asset": 1541500988000,
+    "meta": 1541747848451,
+    "relativePath": "prefab/pageview.prefab"
+  },
+  "cd33edea-55f5-46c2-958d-357a01384a36": {
+    "asset": 1541500988000,
+    "meta": 1541747848454,
+    "relativePath": "prefab/particlesystem.prefab"
+  },
+  "5965ffac-69da-4b55-bcde-9225d0613c28": {
+    "asset": 1541500988000,
+    "meta": 1541747848457,
+    "relativePath": "prefab/progressBar.prefab"
+  },
+  "4a37dd57-78cd-4cec-aad4-f11a73d12b63": {
+    "asset": 1541500988000,
+    "meta": 1541747848461,
+    "relativePath": "prefab/richtext.prefab"
+  },
+  "32044bd2-481f-4cf1-a656-e2b2fb1594eb": {
+    "asset": 1541500988000,
+    "meta": 1541747848465,
+    "relativePath": "prefab/scrollview.prefab"
+  },
+  "0004d1cf-a0ad-47d8-ab17-34d3db9d35a3": {
+    "asset": 1541500988000,
+    "meta": 1541747848468,
+    "relativePath": "prefab/slider.prefab"
+  },
+  "1f55e3be-b89b-4b79-88de-47fd31018044": {
+    "asset": 1541500988000,
+    "meta": 1541747848471,
+    "relativePath": "prefab/sprite_splash.prefab"
+  },
+  "96083d03-c332-4a3f-9386-d03e2d19e8ee": {
+    "asset": 1541500988000,
+    "meta": 1541747848475,
+    "relativePath": "prefab/sprite.prefab"
+  },
+  "7de03a80-4457-438d-95a7-3e7cdffd6086": {
+    "asset": 1541500988000,
+    "meta": 1541747848476,
+    "relativePath": "prefab/tiledmap.prefab"
+  },
+  "0d784963-d024-4ea6-a7db-03be0ad63010": {
+    "asset": 1541500988000,
+    "meta": 1541747848481,
+    "relativePath": "prefab/toggle.prefab"
+  },
+  "bf0a434c-84dd-4a8e-a08a-7a36f180cc75": {
+    "asset": 1541500988000,
+    "meta": 1541747848487,
+    "relativePath": "prefab/toggleContainer.prefab"
+  },
+  "d1b8be49-b0a0-435c-83b7-552bed4bbe35": {
+    "asset": 1541500988000,
+    "meta": 1541747848488,
+    "relativePath": "prefab/toggleGroup.prefab"
+  },
+  "232d2782-c4bd-4bb4-9e01-909f03d6d3b9": {
+    "asset": 1541500988000,
+    "meta": 1541747848493,
+    "relativePath": "prefab/videoplayer.prefab"
+  },
+  "8c5001fd-07ee-4a4b-a8a0-63e15195e94d": {
+    "asset": 1541500988000,
+    "meta": 1541747848492,
+    "relativePath": "prefab/webview.prefab"
+  },
+  "2a283566-da21-42ba-ad9d-bd606e6f6468": {
+    "asset": 1540653538013,
+    "meta": 1541667204872,
+    "relativePath": "resources"
+  },
+  "b194e28b-7e24-4a88-9b18-e89fe142b63d": {
+    "asset": 1540653537949,
+    "meta": 1540653537949,
+    "relativePath": "resources/animation"
+  },
+  "f18ce8d8-b95c-4779-8b45-acd31287e71b": {
+    "asset": 1540653537964,
+    "meta": 1540653537950,
+    "relativePath": "resources/answerscene"
+  },
+  "da63e163-3e92-4c09-b06d-9a3d2b942176": {
+    "asset": 1540653537949,
+    "meta": 1541667205085,
+    "relativePath": "resources/animation/kowtow.anim"
+  },
+  "388cbad6-db55-4a8d-87ec-78b468752745": {
+    "asset": 1540653537951,
+    "meta": 1541679716821,
+    "relativePath": "resources/answerscene/btn_cuo.png"
+  },
+  "eac70703-b3c2-47b6-964b-163b6ffd1ed5": {
+    "asset": 1540653537952,
+    "meta": 1541679716839,
+    "relativePath": "resources/answerscene/btn_dui.png"
+  },
+  "143fe4fe-dbb7-4b9a-b5f4-9f9dd01c1e29": {
+    "asset": 1540653537954,
+    "meta": 1541679716863,
+    "relativePath": "resources/answerscene/datiban.png"
+  },
+  "499e68d7-17b5-4901-8d55-375469a66df3": {
+    "asset": 1540653537951,
+    "meta": 1541679716870,
+    "relativePath": "resources/answerscene/beijing.png"
+  },
+  "eafabaac-90a8-448d-8330-eb62fb570656": {
+    "asset": 1540653537955,
+    "meta": 1541679716878,
+    "relativePath": "resources/answerscene/heidi.png"
+  },
+  "e36c74f1-2757-416a-800a-10d7dc30ab3c": {
+    "asset": 1540653537956,
+    "meta": 1541679716893,
+    "relativePath": "resources/answerscene/qizi_1.png"
+  },
+  "12174644-5007-4acf-a9fa-4938008115f5": {
+    "asset": 1540653537957,
+    "meta": 1541679716903,
+    "relativePath": "resources/answerscene/qizi_2.png"
+  },
+  "e675df2c-0352-476d-9247-b8d033106c59": {
+    "asset": 1540653537958,
+    "meta": 1541679716909,
+    "relativePath": "resources/answerscene/ren_1.png"
+  },
+  "3241b82c-671f-4df7-b8ef-5c4ba97a7b34": {
+    "asset": 1540653537960,
+    "meta": 1541679716921,
+    "relativePath": "resources/answerscene/ren_2.png"
+  },
+  "24fb7469-6740-4fc3-89ba-ac40198b3f72": {
+    "asset": 1540653537961,
+    "meta": 1541679716933,
+    "relativePath": "resources/answerscene/shuzi_1.png"
+  },
+  "052d439a-ff9e-40ba-b249-fc6d8a9b0e32": {
+    "asset": 1540653537962,
+    "meta": 1541679716942,
+    "relativePath": "resources/answerscene/shuzi_3.png"
+  },
+  "3a1a5ca1-cd01-4f54-9030-8ffc7e694314": {
+    "asset": 1540653537967,
+    "meta": 1540653537965,
+    "relativePath": "resources/common"
+  },
+  "48b53e76-6501-4f5c-80cb-da6004174d42": {
+    "asset": 1540653537966,
+    "meta": 1541679716967,
+    "relativePath": "resources/common/fenshuban.png"
+  },
+  "10f0a959-ed2f-4bb4-ae32-a63dc6f676c3": {
+    "asset": 1540653537964,
+    "meta": 1541679716964,
+    "relativePath": "resources/answerscene/zhuzi_2.png"
+  },
+  "c0e16f7c-c447-487c-82ab-9cdeacd462cb": {
+    "asset": 1540653537994,
+    "meta": 1540653537968,
+    "relativePath": "resources/mainscene"
+  },
+  "9bde8bc2-de95-4d39-92ae-13671a530acc": {
+    "asset": 1540653537967,
+    "meta": 1541679716987,
+    "relativePath": "resources/common/icon_jinbi.png"
+  },
+  "77f20e63-a545-4f88-843c-2f54bd3efd35": {
+    "asset": 1540653537969,
+    "meta": 1541679716995,
+    "relativePath": "resources/mainscene/banner.png"
+  },
+  "7eed80d1-6960-43c8-9016-5a341198c767": {
+    "asset": 1540653537972,
+    "meta": 1541679717029,
+    "relativePath": "resources/mainscene/btn_1.png"
+  },
+  "98f5d324-5fd1-40b7-903c-e3401dad63d4": {
+    "asset": 1540653537974,
+    "meta": 1541679717055,
+    "relativePath": "resources/mainscene/btn_2.png"
+  },
+  "3b47fe39-14e7-4b9b-888b-5038b34c07b5": {
+    "asset": 1540653537975,
+    "meta": 1541679717077,
+    "relativePath": "resources/mainscene/btn_qunduizhan.png"
+  },
+  "06368428-4b02-4f6b-ab91-02b9cfda15af": {
+    "asset": 1540653537971,
+    "meta": 1541679717074,
+    "relativePath": "resources/mainscene/beijing.png"
+  },
+  "f9f92d47-a5f6-441c-b173-becf17fab69a": {
+    "asset": 1540653537978,
+    "meta": 1541679717105,
+    "relativePath": "resources/mainscene/btnpaiwei.png"
+  },
+  "de5ae775-7167-4860-ba17-c43d34c78821": {
+    "asset": 1540653537982,
+    "meta": 1541679717123,
+    "relativePath": "resources/mainscene/dian.png"
+  },
+  "eff3de56-a8d6-42b7-9778-784fbe7aa8b3": {
+    "asset": 1540653537980,
+    "meta": 1541679717110,
+    "relativePath": "resources/mainscene/bu.png"
+  },
+  "caed46a7-ebc2-4920-bd80-19407c052cb4": {
+    "asset": 1540653537984,
+    "meta": 1541679717142,
+    "relativePath": "resources/mainscene/ditiao.png"
+  },
+  "40057164-b50f-467d-92a7-faceec237730": {
+    "asset": 1540653537982,
+    "meta": 1541679717136,
+    "relativePath": "resources/mainscene/dingtiao.png"
+  },
+  "efe03a35-e49e-4f07-919c-1d2e50765d6f": {
+    "asset": 1540653537985,
+    "meta": 1541679717153,
+    "relativePath": "resources/mainscene/genghuan.png"
+  },
+  "5a21cfc7-17f4-42aa-a744-383cb961b0c3": {
+    "asset": 1540653537986,
+    "meta": 1541679717159,
+    "relativePath": "resources/mainscene/icon_xin.png"
+  },
+  "9c1ec77e-0df8-43fb-9209-ffe9327d3f29": {
+    "asset": 1540653537987,
+    "meta": 1541679717164,
+    "relativePath": "resources/mainscene/jia.png"
+  },
+  "1eeefcf7-46be-4979-b54e-0d833aa16602": {
+    "asset": 1540653537989,
+    "meta": 1541679717183,
+    "relativePath": "resources/mainscene/ningzikuang.png"
+  },
+  "ee8c29c0-7f92-4a7a-9c1a-4b08767b4b47": {
+    "asset": 1540653537990,
+    "meta": 1541679717190,
+    "relativePath": "resources/mainscene/putuan.png"
+  },
+  "5f9f0f82-7db7-4ff1-9b9e-6b94ee0cdeee": {
+    "asset": 1540653537993,
+    "meta": 1541679717211,
+    "relativePath": "resources/mainscene/touxiang.png"
+  },
+  "4e3a41fb-e272-4bf2-9622-216a6ee9f113": {
+    "asset": 1540653537992,
+    "meta": 1541679717219,
+    "relativePath": "resources/mainscene/ren.png"
+  },
+  "76daec69-6a15-4ad9-a993-177f39f27728": {
+    "asset": 1540653537997,
+    "meta": 1540653537994,
+    "relativePath": "resources/resurgescene"
+  },
+  "7277ec0a-0c95-4090-9815-e75eebbc12dd": {
+    "asset": 1540653537994,
+    "meta": 1541679717238,
+    "relativePath": "resources/resurgescene/btn_guangbi.png"
+  },
+  "3eaa311b-6eec-45a2-9cb2-23ccab30e1e2": {
+    "asset": 1540653537995,
+    "meta": 1541679717252,
+    "relativePath": "resources/resurgescene/btn_lijifuhuo.png"
+  },
+  "8ba65995-46ca-41c8-90d9-bdcc3082bb90": {
+    "asset": 1540653537996,
+    "meta": 1541679717283,
+    "relativePath": "resources/resurgescene/doushou.png"
+  },
+  "f469c9e2-3c64-47ae-8f69-892c6dee96aa": {
+    "asset": 1540653537997,
+    "meta": 1541679717308,
+    "relativePath": "resources/resurgescene/lijifuhup.png"
+  },
+  "0090e0a8-cae7-4d4a-a922-b534f9dc849d": {
+    "asset": 1540653537996,
+    "meta": 1541679717286,
+    "relativePath": "resources/resurgescene/diban.png"
+  },
+  "bbcd6ac4-a9cd-462c-904b-8940c92c09e7": {
+    "asset": 1540653538011,
+    "meta": 1540653537997,
+    "relativePath": "resources/settlescene"
+  },
+  "e373fd78-3744-4dd5-aab0-f7a4dd3e4170": {
+    "asset": 1540653537998,
+    "meta": 1541679717331,
+    "relativePath": "resources/settlescene/btn_baocun.png"
+  },
+  "24050e19-3f69-4b77-8ca4-a7fb1aa820c9": {
+    "asset": 1540653537998,
+    "meta": 1541679717318,
+    "relativePath": "resources/settlescene/baiban.png"
+  },
+  "b7180e8d-ee7f-4643-8382-f8c57ced9762": {
+    "asset": 1540653537999,
+    "meta": 1541679717528,
+    "relativePath": "resources/settlescene/btn_fanhui.png"
+  },
+  "46fc59e9-45d8-4fe5-bc80-1c26b9521c46": {
+    "asset": 1540653537999,
+    "meta": 1541679717552,
+    "relativePath": "resources/settlescene/btn_fenxiang.png"
+  },
+  "b2fae229-9736-404e-a645-d475c20b3595": {
+    "asset": 1540653538000,
+    "meta": 1541679717555,
+    "relativePath": "resources/settlescene/btn_zailaiyiju.png"
+  },
+  "15932ad9-789a-45c8-96f4-16df3a6eba72": {
+    "asset": 1540653538001,
+    "meta": 1541679717576,
+    "relativePath": "resources/settlescene/caidai.png"
+  },
+  "07f829c7-47f6-4572-b6a3-7238ba4341aa": {
+    "asset": 1540653538003,
+    "meta": 1541679717599,
+    "relativePath": "resources/settlescene/di_2.png"
+  },
+  "0d9eb858-def4-4fb3-bd39-92c8f14e9f77": {
+    "asset": 1540653538004,
+    "meta": 1541679717620,
+    "relativePath": "resources/settlescene/di_3.png"
+  },
+  "a2a8af60-85e6-4f79-877a-0a1d45dcbf19": {
+    "asset": 1540653538002,
+    "meta": 1541679717616,
+    "relativePath": "resources/settlescene/di_1.png"
+  },
+  "8838d530-7b35-4283-8f8e-4606bfa1bd56": {
+    "asset": 1540653538006,
+    "meta": 1541679717646,
+    "relativePath": "resources/settlescene/duihua.png"
+  },
+  "cee2bf18-5751-4033-9510-96f4950b85a8": {
+    "asset": 1540653538007,
+    "meta": 1541679717671,
+    "relativePath": "resources/settlescene/huangguan.png"
+  },
+  "ccc894fc-3f58-4703-9f63-93283e476af3": {
+    "asset": 1540653538006,
+    "meta": 1541679717649,
+    "relativePath": "resources/settlescene/heixian.png"
+  },
+  "abb445f1-c5fa-4e97-b795-4f51745693ad": {
+    "asset": 1540653538008,
+    "meta": 1541679717690,
+    "relativePath": "resources/settlescene/jigutou.png"
+  },
+  "7270f53b-596d-4f79-bf8f-e966054bb29f": {
+    "asset": 1540653538007,
+    "meta": 1541679717680,
+    "relativePath": "resources/settlescene/jiangbei.png"
+  },
+  "993007f8-018e-485c-a304-acfb9dbb4e5b": {
+    "asset": 1540653538009,
+    "meta": 1541679717699,
+    "relativePath": "resources/settlescene/jitui.png"
+  },
+  "0cf1380e-c474-47ba-9c24-4058488dec7e": {
+    "asset": 1540653538009,
+    "meta": 1541679717705,
+    "relativePath": "resources/settlescene/paihangyeqian.png"
+  },
+  "e41be5a2-763e-424f-ad58-c60071e75856": {
+    "asset": 1540653538010,
+    "meta": 1541679717713,
+    "relativePath": "resources/settlescene/touxiang_1.png"
+  },
+  "368b57db-6756-4867-a2dd-80a51dcd16a7": {
+    "asset": 1540653538010,
+    "meta": 1541679717723,
+    "relativePath": "resources/settlescene/xingxing.png"
+  },
+  "1306e767-a2dd-413e-a0eb-cfd7d77cc2aa": {
+    "asset": 1540653538013,
+    "meta": 1541679717753,
+    "relativePath": "resources/tiku.json"
+  },
+  "6c13aa07-d649-4704-b8e8-d8f222109e92": {
+    "asset": 1540653538015,
+    "meta": 1541667204899,
+    "relativePath": "scene"
+  },
+  "6d881bca-3f49-4e25-b9f3-11da91ef1fee": {
+    "asset": 1540657895044,
+    "meta": 1541667205773,
+    "relativePath": "scene/AnswerScene.fire"
+  },
+  "dd2758c0-b659-4a36-a86f-01c67ae1a00f": {
+    "asset": 1540313377194,
+    "meta": 1541667205781,
+    "relativePath": "scene/MainScene.fire"
+  },
+  "9013a85f-9654-4800-9a2d-3ac97c8bc08c": {
+    "asset": 1540653538011,
+    "meta": 1541679717728,
+    "relativePath": "resources/settlescene/yeqian.png"
+  },
+  "ddf3bb94-75ae-4c20-ab66-314d9149ebe5": {
+    "asset": 1540656925136,
+    "meta": 1541667205789,
+    "relativePath": "scene/SettleScene.fire"
+  },
+  "edd215b9-2796-4a05-aaf5-81f96c9281ce": {
+    "asset": 1541500988000,
+    "meta": 1541747848201,
+    "relativePath": "image/default_editbox_bg.png"
+  },
+  "8a96b965-2dc0-4e03-aa90-3b79cb93b5b4": {
+    "asset": 1541500988000,
+    "meta": 1541747848421,
+    "relativePath": "obsolete/atom.png"
+  },
+  "d0a82d39-bede-46c4-b698-c81ff0dedfff": {
+    "asset": 1541500988000,
+    "meta": 1541747848438,
+    "relativePath": "particle/atom.png"
+  },
+  "0e42ba95-1fa1-46aa-b2cf-143cd1bcee2c": {
+    "asset": 1541500988000,
+    "meta": 1541747848480,
+    "relativePath": "prefab/tiledtile.prefab"
+  },
+  "6c7da159-1163-4cd1-92c5-438d34b090ba": {
+    "asset": 1541680022115,
+    "meta": 1541680201778,
+    "relativePath": "script"
+  },
+  "584bf089-9bb7-4b26-9aad-8a4c04d6dac6": {
+    "asset": 1541743644000,
+    "meta": 1541744338984,
+    "relativePath": "textures"
+  },
+  "a1d00034-da1e-48f9-8a20-d039a1f61e59": {
+    "asset": 1541749775548,
+    "meta": 1541749775543,
+    "relativePath": "script/src"
+  },
+  "5fd5df92-4e19-4ff3-a61d-e4132f86823a": {
+    "asset": 1541749775545,
+    "meta": 1541749775544,
+    "relativePath": "script/src/base"
+  },
+  "0f7a1203-d741-47f9-9741-26bf8f753eb9": {
+    "asset": 1541749775545,
+    "meta": 1541749775545,
+    "relativePath": "script/src/manager"
+  },
+  "460cd4c9-9540-42ae-b6d1-988720ed6a55": {
+    "asset": 1541749775547,
+    "meta": 1541749775547,
+    "relativePath": "script/src/scenes"
+  },
+  "15c2f37b-c533-4959-ba57-57b2fd67364d": {
+    "asset": 1541749775549,
+    "meta": 1541749775548,
+    "relativePath": "script/src/utils"
+  },
+  "efbce863-5219-4dc6-9e6d-8943370f5f87": {
+    "asset": 1541752325392,
+    "meta": 1541752365515,
+    "relativePath": "script/src/base/BaseScene.js"
+  },
+  "27814feb-805d-40df-b7db-f952842cca57": {
+    "asset": 1541752325466,
+    "meta": 1541752365564,
+    "relativePath": "script/src/manager/ResourcesManager.js"
+  },
+  "7f167035-23d2-4122-afc4-8f1c6fab3328": {
+    "asset": 1541752325492,
+    "meta": 1541752365599,
+    "relativePath": "script/src/scenes/MainScens.js"
+  },
+  "3b66390f-bfac-4594-a747-857b390ea203": {
+    "asset": 1541752325411,
+    "meta": 1541752365600,
+    "relativePath": "script/src/utils/StringUtils.js"
+  },
+  "79babaab-a6bc-48cc-b8d8-9c5d87364ea3": {
+    "asset": 1541752365238,
+    "meta": 1541752365237,
+    "relativePath": "script/src/common"
+  },
+  "93dba731-f3f0-485d-b492-2c682fc42a34": {
+    "asset": 1541752325480,
+    "meta": 1541752365636,
+    "relativePath": "script/src/common/Audio.js"
+  }
+}

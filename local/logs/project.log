@@ -1,0 +1,76 @@
+2018-11-09T07:17:21.668Z - normal: Load ~/.CocosCreator/settings.json
+2018-11-09T07:17:21.673Z - normal: checking language setting...
+2018-11-09T07:17:21.673Z - normal: Language: zh
+2018-11-09T07:17:22.890Z - success: protocol editor-framework registered
+2018-11-09T07:17:22.891Z - success: protocol app registered
+2018-11-09T07:17:22.891Z - success: protocol theme registered
+2018-11-09T07:17:22.892Z - success: protocol packages registered
+2018-11-09T07:17:22.892Z - success: protocol unpack registerred
+2018-11-09T07:17:22.893Z - success: protocol disable-commonjs registerred
+2018-11-09T07:17:23.141Z - normal: connected!
+2018-11-09T07:17:23.146Z - normal: Check project /Users/linzhang/wegame/wangzhechiji
+2018-11-09T07:17:23.151Z - normal: Initializing project /Users/linzhang/wegame/wangzhechiji
+2018-11-09T07:17:23.157Z - normal: Initializing Cocos2d
+2018-11-09T07:17:24.289Z - normal: Initializing Asset Database
+2018-11-09T07:17:24.369Z - success: protocol uuid registerred
+2018-11-09T07:17:24.369Z - success: protocol db registerred
+2018-11-09T07:17:24.369Z - success: protocol thumbnail registerred
+2018-11-09T07:17:24.370Z - normal: Loading editor/builtin packages
+2018-11-09T07:17:24.608Z - success: assets loaded
+2018-11-09T07:17:24.615Z - success: builder loaded
+2018-11-09T07:17:24.618Z - success: cocos-analytics loaded
+2018-11-09T07:17:24.625Z - success: console loaded
+2018-11-09T07:17:24.677Z - success: fb-instant-games loaded
+2018-11-09T07:17:24.681Z - success: google-instant-games loaded
+2018-11-09T07:17:24.689Z - success: hierarchy loaded
+2018-11-09T07:17:24.697Z - success: inspector loaded
+2018-11-09T07:17:24.700Z - success: keystore loaded
+2018-11-09T07:17:24.707Z - success: node-library loaded
+2018-11-09T07:17:24.711Z - success: package-asset loaded
+2018-11-09T07:17:24.714Z - success: preferences loaded
+2018-11-09T07:17:24.720Z - success: project-exporter loaded
+2018-11-09T07:17:24.747Z - success: project-importer loaded
+2018-11-09T07:17:24.752Z - success: project-settings loaded
+2018-11-09T07:17:24.760Z - success: ui-kit loaded
+2018-11-09T07:17:24.769Z - success: scene loaded
+2018-11-09T07:17:24.771Z - success: sprite-editor loaded
+2018-11-09T07:17:24.779Z - success: store loaded
+2018-11-09T07:17:24.789Z - success: timeline loaded
+2018-11-09T07:17:24.789Z - normal: Loading builtin packages
+2018-11-09T07:17:24.801Z - success: asset-db-debugger loaded
+2018-11-09T07:17:24.805Z - success: color-picker loaded
+2018-11-09T07:17:24.990Z - success: google-play-instant loaded
+2018-11-09T07:17:24.993Z - success: jsb-adapter loaded
+2018-11-09T07:17:25.006Z - success: oppo-runtime loaded
+2018-11-09T07:17:25.016Z - success: package-manager loaded
+2018-11-09T07:17:25.301Z - success: qqplay-adapter loaded
+2018-11-09T07:17:25.313Z - success: sdkbox loaded
+2018-11-09T07:17:25.324Z - success: tester loaded
+2018-11-09T07:17:25.334Z - success: ui-grid loaded
+2018-11-09T07:17:25.343Z - success: ui-kit-preview-extra loaded
+2018-11-09T07:17:25.350Z - success: ui-kit-preview loaded
+2018-11-09T07:17:25.359Z - success: ui-tree loaded
+2018-11-09T07:17:25.365Z - success: vivo-runtime loaded
+2018-11-09T07:17:25.368Z - success: weapp-adapter loaded
+2018-11-09T07:17:27.310Z - normal: Loading packages
+2018-11-09T07:17:27.323Z - normal: Watching packages
+2018-11-09T07:17:27.479Z - normal: Run Application
+2018-11-09T07:17:29.448Z - success: preview server running at http://localhost:7456
+2018-11-09T07:17:39.283Z - warn: Script attached to "Canvas" in scene "AnswerScene.fire" is missing or invalid. Detailed information:
+Node path: "Canvas"
+Asset url: "db://assets/scene/AnswerScene.fire"
+Script UUID: "e301f08f-325a-48ad-9bdf-d35d309055d8"
+Class ID: "e301fCPMlpIrZvf010wkFXY"
+
+2018-11-09T08:23:30.503Z - warn: Script attached to "btn_bottom_center" in scene "MainScene.fire" is missing or invalid. Detailed information:
+Node path: "Canvas/panel_root/panel_bottom/btn_bottom_center"
+Asset url: "db://assets/scene/MainScene.fire"
+Script UUID: "d29c54ae-fd56-47b9-a622-7244b7a16ef9"
+Class ID: "d29c5Su/VZHuaYickS3oW75"
+
+2018-11-09T08:23:30.506Z - warn: Script attached to "Canvas" in scene "MainScene.fire" is missing or invalid. Detailed information:
+Node path: "Canvas"
+Asset url: "db://assets/scene/MainScene.fire"
+Script UUID: "12032557-87aa-4656-8e99-6cc8049c21e9"
+Class ID: "12032VXh6pGVo6ZbMgEnCHp"
+

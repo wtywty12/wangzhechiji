@@ -1,0 +1,558 @@
+window._CCSettings = {
+    designWidth: 720,
+    designHeight: 1280,
+    groupList: [
+        "default"
+    ],
+    collisionMatrix: [
+        [
+            true
+        ]
+    ],
+    platform: "web-desktop",
+    scripts: [
+        {
+            deps: {},
+            file: "preview-scripts/assets/script/src/base/BaseScene.js"
+        },
+        {
+            deps: {},
+            file: "preview-scripts/assets/script/src/manager/ResourcesManager.js"
+        },
+        {
+            deps: {
+                "../base/BaseScene": 0
+            },
+            file: "preview-scripts/assets/script/src/scenes/MainScens.js"
+        },
+        {
+            deps: {},
+            file: "preview-scripts/assets/script/src/utils/StringUtils.js"
+        }
+    ],
+    rawAssets: {
+        assets: {
+            "da63e163-3e92-4c09-b06d-9a3d2b942176": [
+                "animation/kowtow.anim",
+                "cc.AnimationClip"
+            ],
+            "9feba016-a33f-4bc4-8e74-6ece532f97d5": [
+                "answerscene/beijing",
+                "cc.SpriteFrame",
+                1
+            ],
+            "499e68d7-17b5-4901-8d55-375469a66df3": [
+                "answerscene/beijing.png",
+                "cc.Texture2D"
+            ],
+            "23ed695f-f690-418e-9850-5aaa8149a02a": [
+                "answerscene/btn_cuo",
+                "cc.SpriteFrame",
+                1
+            ],
+            "388cbad6-db55-4a8d-87ec-78b468752745": [
+                "answerscene/btn_cuo.png",
+                "cc.Texture2D"
+            ],
+            "ae895515-4310-4e11-882e-59df61c414ba": [
+                "answerscene/btn_dui",
+                "cc.SpriteFrame",
+                1
+            ],
+            "eac70703-b3c2-47b6-964b-163b6ffd1ed5": [
+                "answerscene/btn_dui.png",
+                "cc.Texture2D"
+            ],
+            "e59cceef-8850-4eee-bfae-dfc27d8614e9": [
+                "answerscene/datiban",
+                "cc.SpriteFrame",
+                1
+            ],
+            "143fe4fe-dbb7-4b9a-b5f4-9f9dd01c1e29": [
+                "answerscene/datiban.png",
+                "cc.Texture2D"
+            ],
+            "483d7b8d-dc4c-4836-be91-6cc9da431aed": [
+                "answerscene/heidi",
+                "cc.SpriteFrame",
+                1
+            ],
+            "eafabaac-90a8-448d-8330-eb62fb570656": [
+                "answerscene/heidi.png",
+                "cc.Texture2D"
+            ],
+            "e32d58ec-9c1d-4701-91a4-a89df46a0f2c": [
+                "answerscene/qizi_1",
+                "cc.SpriteFrame",
+                1
+            ],
+            "e36c74f1-2757-416a-800a-10d7dc30ab3c": [
+                "answerscene/qizi_1.png",
+                "cc.Texture2D"
+            ],
+            "3bb81da5-93fc-4e07-b2e1-41757f0c6dbf": [
+                "answerscene/qizi_2",
+                "cc.SpriteFrame",
+                1
+            ],
+            "12174644-5007-4acf-a9fa-4938008115f5": [
+                "answerscene/qizi_2.png",
+                "cc.Texture2D"
+            ],
+            "a203cac1-9b66-41a3-b1ca-61edbcfa0070": [
+                "answerscene/ren_1",
+                "cc.SpriteFrame",
+                1
+            ],
+            "e675df2c-0352-476d-9247-b8d033106c59": [
+                "answerscene/ren_1.png",
+                "cc.Texture2D"
+            ],
+            "a5835696-0aa4-4087-b259-4d4bbfc9805d": [
+                "answerscene/ren_2",
+                "cc.SpriteFrame",
+                1
+            ],
+            "3241b82c-671f-4df7-b8ef-5c4ba97a7b34": [
+                "answerscene/ren_2.png",
+                "cc.Texture2D"
+            ],
+            "95521b67-2293-4ebd-8ba4-4d9fa3d825be": [
+                "answerscene/shuzi_1",
+                "cc.SpriteFrame",
+                1
+            ],
+            "24fb7469-6740-4fc3-89ba-ac40198b3f72": [
+                "answerscene/shuzi_1.png",
+                "cc.Texture2D"
+            ],
+            "c84a76e3-e144-41b4-9f44-f76986b26a98": [
+                "answerscene/shuzi_3",
+                "cc.SpriteFrame",
+                1
+            ],
+            "052d439a-ff9e-40ba-b249-fc6d8a9b0e32": [
+                "answerscene/shuzi_3.png",
+                "cc.Texture2D"
+            ],
+            "138abeb6-4e5d-4ca3-8702-a4e8b472651c": [
+                "answerscene/zhuzi_2",
+                "cc.SpriteFrame",
+                1
+            ],
+            "10f0a959-ed2f-4bb4-ae32-a63dc6f676c3": [
+                "answerscene/zhuzi_2.png",
+                "cc.Texture2D"
+            ],
+            "5ee6f561-9175-4917-b258-aa7602c8bdd5": [
+                "common/fenshuban",
+                "cc.SpriteFrame",
+                1
+            ],
+            "48b53e76-6501-4f5c-80cb-da6004174d42": [
+                "common/fenshuban.png",
+                "cc.Texture2D"
+            ],
+            "3fa9224c-d879-41c6-ad65-7fabbd5d8967": [
+                "common/icon_jinbi",
+                "cc.SpriteFrame",
+                1
+            ],
+            "9bde8bc2-de95-4d39-92ae-13671a530acc": [
+                "common/icon_jinbi.png",
+                "cc.Texture2D"
+            ],
+            "ff5c8c01-0737-47b1-9c5d-8f5a14c93771": [
+                "mainscene/banner",
+                "cc.SpriteFrame",
+                1
+            ],
+            "77f20e63-a545-4f88-843c-2f54bd3efd35": [
+                "mainscene/banner.png",
+                "cc.Texture2D"
+            ],
+            "d502a3c7-3d8b-4961-914c-1cf2d75a87be": [
+                "mainscene/beijing",
+                "cc.SpriteFrame",
+                1
+            ],
+            "06368428-4b02-4f6b-ab91-02b9cfda15af": [
+                "mainscene/beijing.png",
+                "cc.Texture2D"
+            ],
+            "b9068ffe-e569-43a4-9860-75f029a3e1b5": [
+                "mainscene/btn_1",
+                "cc.SpriteFrame",
+                1
+            ],
+            "7eed80d1-6960-43c8-9016-5a341198c767": [
+                "mainscene/btn_1.png",
+                "cc.Texture2D"
+            ],
+            "afbb4daa-eb74-4357-b97a-0a2884d98439": [
+                "mainscene/btn_2",
+                "cc.SpriteFrame",
+                1
+            ],
+            "98f5d324-5fd1-40b7-903c-e3401dad63d4": [
+                "mainscene/btn_2.png",
+                "cc.Texture2D"
+            ],
+            "bbbcefda-ebeb-43f4-b7dc-f053cb2e73d8": [
+                "mainscene/btn_qunduizhan",
+                "cc.SpriteFrame",
+                1
+            ],
+            "3b47fe39-14e7-4b9b-888b-5038b34c07b5": [
+                "mainscene/btn_qunduizhan.png",
+                "cc.Texture2D"
+            ],
+            "26cd46a8-edd1-4fd5-b655-816815ba0077": [
+                "mainscene/btnpaiwei",
+                "cc.SpriteFrame",
+                1
+            ],
+            "f9f92d47-a5f6-441c-b173-becf17fab69a": [
+                "mainscene/btnpaiwei.png",
+                "cc.Texture2D"
+            ],
+            "464f9650-996c-443c-b5d5-c390e159e2b5": [
+                "mainscene/bu",
+                "cc.SpriteFrame",
+                1
+            ],
+            "eff3de56-a8d6-42b7-9778-784fbe7aa8b3": [
+                "mainscene/bu.png",
+                "cc.Texture2D"
+            ],
+            "7bc84977-4194-47fc-a1ff-c5612ae13713": [
+                "mainscene/dian",
+                "cc.SpriteFrame",
+                1
+            ],
+            "de5ae775-7167-4860-ba17-c43d34c78821": [
+                "mainscene/dian.png",
+                "cc.Texture2D"
+            ],
+            "9a4ddd11-6f2d-47c5-98a4-c8a6fc58c2b5": [
+                "mainscene/dingtiao",
+                "cc.SpriteFrame",
+                1
+            ],
+            "40057164-b50f-467d-92a7-faceec237730": [
+                "mainscene/dingtiao.png",
+                "cc.Texture2D"
+            ],
+            "b0166352-3444-4bf2-8346-8b9946ed8c1c": [
+                "mainscene/ditiao",
+                "cc.SpriteFrame",
+                1
+            ],
+            "caed46a7-ebc2-4920-bd80-19407c052cb4": [
+                "mainscene/ditiao.png",
+                "cc.Texture2D"
+            ],
+            "f93341b1-4990-4c28-9c6d-07d6ff82a79b": [
+                "mainscene/genghuan",
+                "cc.SpriteFrame",
+                1
+            ],
+            "efe03a35-e49e-4f07-919c-1d2e50765d6f": [
+                "mainscene/genghuan.png",
+                "cc.Texture2D"
+            ],
+            "25d22511-706a-4677-83c4-2cd355a1385e": [
+                "mainscene/icon_xin",
+                "cc.SpriteFrame",
+                1
+            ],
+            "5a21cfc7-17f4-42aa-a744-383cb961b0c3": [
+                "mainscene/icon_xin.png",
+                "cc.Texture2D"
+            ],
+            "cb3e6f27-dd99-4606-a61b-e2fd5f84228d": [
+                "mainscene/jia",
+                "cc.SpriteFrame",
+                1
+            ],
+            "9c1ec77e-0df8-43fb-9209-ffe9327d3f29": [
+                "mainscene/jia.png",
+                "cc.Texture2D"
+            ],
+            "7cf610fd-9351-4c94-8222-a82e5b080c8b": [
+                "mainscene/ningzikuang",
+                "cc.SpriteFrame",
+                1
+            ],
+            "1eeefcf7-46be-4979-b54e-0d833aa16602": [
+                "mainscene/ningzikuang.png",
+                "cc.Texture2D"
+            ],
+            "cf19e319-1e43-4116-a3dd-53c0e87977fe": [
+                "mainscene/putuan",
+                "cc.SpriteFrame",
+                1
+            ],
+            "ee8c29c0-7f92-4a7a-9c1a-4b08767b4b47": [
+                "mainscene/putuan.png",
+                "cc.Texture2D"
+            ],
+            "3b6224d8-eb0c-46a0-8feb-0bf723e50732": [
+                "mainscene/ren",
+                "cc.SpriteFrame",
+                1
+            ],
+            "4e3a41fb-e272-4bf2-9622-216a6ee9f113": [
+                "mainscene/ren.png",
+                "cc.Texture2D"
+            ],
+            "2b966106-2665-4b0b-acdb-b43471baef08": [
+                "mainscene/touxiang",
+                "cc.SpriteFrame",
+                1
+            ],
+            "5f9f0f82-7db7-4ff1-9b9e-6b94ee0cdeee": [
+                "mainscene/touxiang.png",
+                "cc.Texture2D"
+            ],
+            "8c8c093b-e49b-46fd-b6f3-1843cd0fcbff": [
+                "resurgescene/btn_guangbi",
+                "cc.SpriteFrame",
+                1
+            ],
+            "7277ec0a-0c95-4090-9815-e75eebbc12dd": [
+                "resurgescene/btn_guangbi.png",
+                "cc.Texture2D"
+            ],
+            "045ebfe5-4439-4467-a22c-ff24860744a6": [
+                "resurgescene/btn_lijifuhuo",
+                "cc.SpriteFrame",
+                1
+            ],
+            "3eaa311b-6eec-45a2-9cb2-23ccab30e1e2": [
+                "resurgescene/btn_lijifuhuo.png",
+                "cc.Texture2D"
+            ],
+            "a882e6a0-6cb8-41e6-8524-1457315998bb": [
+                "resurgescene/diban",
+                "cc.SpriteFrame",
+                1
+            ],
+            "0090e0a8-cae7-4d4a-a922-b534f9dc849d": [
+                "resurgescene/diban.png",
+                "cc.Texture2D"
+            ],
+            "9c8273e7-0768-4483-9ecb-8dff1b50ef4f": [
+                "resurgescene/doushou",
+                "cc.SpriteFrame",
+                1
+            ],
+            "8ba65995-46ca-41c8-90d9-bdcc3082bb90": [
+                "resurgescene/doushou.png",
+                "cc.Texture2D"
+            ],
+            "8ed53f56-450f-440b-b096-bf83ddf206ef": [
+                "resurgescene/lijifuhup",
+                "cc.SpriteFrame",
+                1
+            ],
+            "f469c9e2-3c64-47ae-8f69-892c6dee96aa": [
+                "resurgescene/lijifuhup.png",
+                "cc.Texture2D"
+            ],
+            "748515b7-57f3-48bb-aa7f-e85578cfa6fd": [
+                "settlescene/baiban",
+                "cc.SpriteFrame",
+                1
+            ],
+            "24050e19-3f69-4b77-8ca4-a7fb1aa820c9": [
+                "settlescene/baiban.png",
+                "cc.Texture2D"
+            ],
+            "9437dc4d-9458-4091-8a9f-b4f93e01795b": [
+                "settlescene/btn_baocun",
+                "cc.SpriteFrame",
+                1
+            ],
+            "e373fd78-3744-4dd5-aab0-f7a4dd3e4170": [
+                "settlescene/btn_baocun.png",
+                "cc.Texture2D"
+            ],
+            "813f3d4c-7bac-4caa-b6bb-4d91c38289fa": [
+                "settlescene/btn_fanhui",
+                "cc.SpriteFrame",
+                1
+            ],
+            "b7180e8d-ee7f-4643-8382-f8c57ced9762": [
+                "settlescene/btn_fanhui.png",
+                "cc.Texture2D"
+            ],
+            "0dec1205-d704-4f42-a121-334bdd6456c4": [
+                "settlescene/btn_fenxiang",
+                "cc.SpriteFrame",
+                1
+            ],
+            "46fc59e9-45d8-4fe5-bc80-1c26b9521c46": [
+                "settlescene/btn_fenxiang.png",
+                "cc.Texture2D"
+            ],
+            "d50a305f-4dd2-472e-b755-50b4ec6a93bf": [
+                "settlescene/btn_zailaiyiju",
+                "cc.SpriteFrame",
+                1
+            ],
+            "b2fae229-9736-404e-a645-d475c20b3595": [
+                "settlescene/btn_zailaiyiju.png",
+                "cc.Texture2D"
+            ],
+            "f84a9a58-5b13-443a-b49c-e116f3b52b8d": [
+                "settlescene/caidai",
+                "cc.SpriteFrame",
+                1
+            ],
+            "15932ad9-789a-45c8-96f4-16df3a6eba72": [
+                "settlescene/caidai.png",
+                "cc.Texture2D"
+            ],
+            "03dc14c6-1cd7-41b1-9abd-1a7d05b408df": [
+                "settlescene/di_1",
+                "cc.SpriteFrame",
+                1
+            ],
+            "a2a8af60-85e6-4f79-877a-0a1d45dcbf19": [
+                "settlescene/di_1.png",
+                "cc.Texture2D"
+            ],
+            "31b6d0e5-2d9a-428c-aa38-555c7a30ea02": [
+                "settlescene/di_2",
+                "cc.SpriteFrame",
+                1
+            ],
+            "07f829c7-47f6-4572-b6a3-7238ba4341aa": [
+                "settlescene/di_2.png",
+                "cc.Texture2D"
+            ],
+            "e312d741-ac3a-4121-8794-9f5a81da4a43": [
+                "settlescene/di_3",
+                "cc.SpriteFrame",
+                1
+            ],
+            "0d9eb858-def4-4fb3-bd39-92c8f14e9f77": [
+                "settlescene/di_3.png",
+                "cc.Texture2D"
+            ],
+            "43c15365-507d-45a5-bb61-aa467e8c4d4a": [
+                "settlescene/duihua",
+                "cc.SpriteFrame",
+                1
+            ],
+            "8838d530-7b35-4283-8f8e-4606bfa1bd56": [
+                "settlescene/duihua.png",
+                "cc.Texture2D"
+            ],
+            "9b126966-574e-47dc-b148-243e7006c9e9": [
+                "settlescene/heixian",
+                "cc.SpriteFrame",
+                1
+            ],
+            "ccc894fc-3f58-4703-9f63-93283e476af3": [
+                "settlescene/heixian.png",
+                "cc.Texture2D"
+            ],
+            "b4adc07a-4671-4831-81e8-b517414a18d3": [
+                "settlescene/huangguan",
+                "cc.SpriteFrame",
+                1
+            ],
+            "cee2bf18-5751-4033-9510-96f4950b85a8": [
+                "settlescene/huangguan.png",
+                "cc.Texture2D"
+            ],
+            "3187bc24-774c-42e8-a4c2-7bc1647acefe": [
+                "settlescene/jiangbei",
+                "cc.SpriteFrame",
+                1
+            ],
+            "7270f53b-596d-4f79-bf8f-e966054bb29f": [
+                "settlescene/jiangbei.png",
+                "cc.Texture2D"
+            ],
+            "c5ad4293-f8ed-4f5b-9f74-d1fe072254c5": [
+                "settlescene/jigutou",
+                "cc.SpriteFrame",
+                1
+            ],
+            "abb445f1-c5fa-4e97-b795-4f51745693ad": [
+                "settlescene/jigutou.png",
+                "cc.Texture2D"
+            ],
+            "91b89065-c699-4754-85d5-f876936f7251": [
+                "settlescene/jitui",
+                "cc.SpriteFrame",
+                1
+            ],
+            "993007f8-018e-485c-a304-acfb9dbb4e5b": [
+                "settlescene/jitui.png",
+                "cc.Texture2D"
+            ],
+            "e2c739b8-be94-4386-845d-7a3ee8655ce7": [
+                "settlescene/paihangyeqian",
+                "cc.SpriteFrame",
+                1
+            ],
+            "0cf1380e-c474-47ba-9c24-4058488dec7e": [
+                "settlescene/paihangyeqian.png",
+                "cc.Texture2D"
+            ],
+            "4b7a854b-427d-4124-8393-922141cc0847": [
+                "settlescene/touxiang_1",
+                "cc.SpriteFrame",
+                1
+            ],
+            "e41be5a2-763e-424f-ad58-c60071e75856": [
+                "settlescene/touxiang_1.png",
+                "cc.Texture2D"
+            ],
+            "e371f182-3d57-4228-823f-35517bcc42d6": [
+                "settlescene/xingxing",
+                "cc.SpriteFrame",
+                1
+            ],
+            "368b57db-6756-4867-a2dd-80a51dcd16a7": [
+                "settlescene/xingxing.png",
+                "cc.Texture2D"
+            ],
+            "74a9403c-f58a-4285-845b-c6015ad144bb": [
+                "settlescene/yeqian",
+                "cc.SpriteFrame",
+                1
+            ],
+            "9013a85f-9654-4800-9a2d-3ac97c8bc08c": [
+                "settlescene/yeqian.png",
+                "cc.Texture2D"
+            ],
+            "1306e767-a2dd-413e-a0eb-cfd7d77cc2aa": [
+                "tiku.json",
+                "cc.JsonAsset"
+            ]
+        }
+    },
+    launchScene: "db://assets/scene/AnswerScene.fire",
+    scenes: [
+        {
+            url: "db://assets/scene/AnswerScene.fire",
+            uuid: "6d881bca-3f49-4e25-b9f3-11da91ef1fee"
+        },
+        {
+            url: "db://assets/scene/MainScene.fire",
+            uuid: "dd2758c0-b659-4a36-a86f-01c67ae1a00f"
+        },
+        {
+            url: "db://assets/scene/SettleScene.fire",
+            uuid: "ddf3bb94-75ae-4c20-ab66-314d9149ebe5"
+        }
+    ],
+    packedAssets: {},
+    md5AssetsMap: {},
+    debug: true
+};
